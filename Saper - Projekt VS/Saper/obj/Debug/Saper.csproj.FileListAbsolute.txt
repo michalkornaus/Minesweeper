@@ -1,0 +1,16 @@
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\bin\Debug\Saper.exe.config
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\bin\Debug\Saper.exe
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\bin\Debug\Saper.pdb
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\obj\Debug\Saper.Properties.Resources.resources
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\obj\Debug\Saper.exe
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\obj\Debug\Saper.pdb
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\obj\Debug\Saper.MenuForm.resources
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\obj\Debug\Saper.GameForm.resources
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\bin\Debug\Saper.exe.manifest
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\bin\Debug\Saper.application
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\obj\Debug\Saper.TrustInfo.xml
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\obj\Debug\Saper.exe.manifest
+C:\Users\Michu\Desktop\AMW\mp\Projekt - gra\Saper\obj\Debug\Saper.application
